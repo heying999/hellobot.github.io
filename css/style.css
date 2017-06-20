@@ -16,7 +16,7 @@ body {
   position: absolute;
   width: 180px;
   height: 190px;
-  top: calc(25% - 80px);
+  top: calc(35% - 80px);
   /*bottom:0;*/
   left: calc(50% - 80px);
 }
