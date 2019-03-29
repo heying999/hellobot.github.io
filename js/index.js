@@ -18,7 +18,7 @@ var robot = document.querySelector('.robot');
 
 var message = new SpeechSynthesisUtterance();
 
-message.text = 'Happy birthday, Yannis. i am robot391839129. Your lovely UX team send me to say hello to you. We all love you!';
+message.text = 'Hi, Jason Winters. i am robotUX999. my friend Ying send me to say hello to you!';
 var voices = [];
 
 speechSynthesis.addEventListener('voiceschanged', function (event) {
