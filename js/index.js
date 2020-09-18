@@ -18,7 +18,7 @@ var robot = document.querySelector('.robot');
 
 var message = new SpeechSynthesisUtterance();
 
-message.text = 'Hi, Lily. I am robot Xiao An, how are you ？';
+message.text = 'Hi, Lily. I am robot shao An, how are you?';
 var voices = [];
 
 speechSynthesis.addEventListener('voiceschanged', function (event) {
