@@ -18,7 +18,7 @@ var robot = document.querySelector('.robot');
 
 var message = new SpeechSynthesisUtterance();
 
-message.text = 'Hi, Kevin. i am robot999. my friend Ying send me to say hello to you! This is my first time to come to Boston, happy';
+message.text = 'Hi, Lily. 我是机器人小安. 你好吗？';
 var voices = [];
 
 speechSynthesis.addEventListener('voiceschanged', function (event) {
